@@ -8,7 +8,7 @@ Project composed with aid from tutorial ["Realtime Socket Streaming with Apache 
 
 ### Apache Spark Master/Worker Connection
 
-![apache_spark](assets/yelp_socket_spark.png)
+![apache_spark](assets/yelp_socket_spark_2.png)
 
 ### Kafka/Confluent Topic and Connector
 
