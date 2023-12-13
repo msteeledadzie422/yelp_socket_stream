@@ -1,4 +1,4 @@
-# Yelp Customer Review Data Stream Data Pipeline Project
+# Yelp Customer Review Data Stream
 
 This is a real-time data streaming pipeline that utilizes a 7-million-record Yelp Review dataset. A TCP/IP socket stream is created using Apache Spark and is used to stream review data from our static dataset to Apache Kafka, managed in Confluent.
 These reviews are then run through NLTK Vader's large language sentiment analysis model to classify reviews as positive, negative, or neutral.
